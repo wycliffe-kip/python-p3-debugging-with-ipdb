@@ -12,3 +12,4 @@ def tracing_the_function():
     print(this_variable_hasnt_been_interpreted_yet)
 
 tracing_the_function()
+
